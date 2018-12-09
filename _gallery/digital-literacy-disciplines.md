@@ -1,14 +1,13 @@
 ---
 author: mitsos
-title: Digital Desk
+title: Digital Litaracy
 image_url: /images/digital-literacy-disciplines.png
-caption: 'Το σύστημα Digital Desk δημιουργήθηκε στις αρχές του 1990 με στόχο να φέρει τις δυνατότητες διάδρασης μεταξύ του ψηφιακού και φυσικού κόσμου πάνω στο τραπέζι, ακριβώς δηλαδή, το αντίθετο από την κατεύθυνση που ακολουθεί ο επιτραπέζιος υπολογισμός από το 1970.'
-license_url: 'http://www.cl.cam.ac.uk'
-license_text: Courtesy of University of Cambridge
+caption: 'Ο ψηφιακός αλφαβητισμός είναι καθολικά αποδεκτός ως μια πολύ βασική δεξιότητα, ανεξάρ-
+τητα από τις προσωπικές και επαγγελματικές επιδιώξεις του κάθε ανθρώπου.'
 categories:
-  - forms
-  - models
+  - digital
+  - litaracy
   - tools
 tags:
-  - PhD
+  - litaracy
 ---
