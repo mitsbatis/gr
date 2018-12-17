@@ -1,7 +1,7 @@
 ---
 author: mitsos
 title: "Bret Victor"
-image_url: /images/bret-victor-thumb.png
+-image_url: /images/bret-victor-thumb.png
 caption: "O Μπρέτ Βίκτωρ είναι ένας σχεδιαστής διεπαφών , επιστήμων της πληροφορικής και ηλεκτρολόγος μηχανικός, γνωστός για τις αναφορές του, στο μέλλον της τεχνολογίας. Σήμερα εργάζεται  ως ερευνητής στο Dynamicland."
 categories:
   - biography
