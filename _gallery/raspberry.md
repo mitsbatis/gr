@@ -1,7 +1,7 @@
 ---
 author: mitsos
 title: Microcontrollers
-image_url: /images/rasberry.png
+image_url: /images/raspberry.png
 caption: 'Tο RaspeberryPi είναι μια ακόμη συσκευή που βασίζεται στον ανοικτό
 κώδικα για να προσφέρει έναν μικρό σε μέγεθος και οικονομικό υπολογιστή. Οι ομοιότητες
 ανάμεσα στο Arduino και στο RaspberryPi δεν σταματούν στον ανοικτό κώδικα και στην
